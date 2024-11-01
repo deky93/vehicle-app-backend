@@ -1,0 +1,11 @@
+npm install pg --save //command to install PostgreSQL
+
+npm install express --save //command to install express server
+
+npm install body-parser --save //command to install body-parser(used to handle conversion to and from json)
+
+node api.js //komanda za pokretanje servera (potrebno da se izvrsi posle svake promene u fajlu)
+bolja verzija live server: nodemon server.js
+
+https://www.youtube.com/watch?v=HO5iiDaZO2E&t=806s
+
